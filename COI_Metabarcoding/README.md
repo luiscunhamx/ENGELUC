@@ -58,13 +58,13 @@ Raw and processed data used in these scripts were generated as part of the Sabug
 
 If you use or adapt this code, please cite:
 
-> Kalchhauser-Cunha, T. et al. (2025). *Assessing Soil Variability in Oak and Pine Forests Through Macrofauna Communities*. Master’s Thesis. University of Coimbra.  
+> Steiner, L. et al. (2025). *Assessing Soil Variability in Oak and Pine Forests Through Macrofauna Communities*. Master’s Thesis. University of Coimbra.  
 > Plus any additional packages or tools used (see individual scripts for details).
 
 ## 📬 Contact
 
 For questions, please contact:  
-**Theresa Kalchhauser-Cunha** – theresa.kalchhauser@xxxxx.eu
+**Luis Kalchhauser Cunha** – ewormuc@gmail.com
 
 ---
 
