@@ -5,14 +5,16 @@ The work is part of the EnGeL SOP and [BENCHMARKS](https://soilhealthbenchmarks.
 
 ## 📁 Folder Structure
 
+```
 /code/
-├── 01_sequence_processing/ # Scripts for OBITools4, VSEARCH, LULU pipelines
-├── 02_sampling_analysis/ # R scripts comparing k-means vs. random sampling
-├── 03_diversity_analysis/ # Scripts for alpha/beta diversity, rarefaction, NMDS
-├── 04_taxonomic_assignment/ # BOLDigger or custom scripts for OTU annotation
-├── utils/ # Utility functions and helper scripts
-├── data/ # Input files (or symlinks) if appropriate
-└── figures/ # Output figures and plots
+├── 01_sequence_processing/       # Scripts for OBITools4, VSEARCH, LULU pipelines
+├── 02_sampling_analysis/         # R scripts comparing k-means vs. random sampling
+├── 03_diversity_analysis/        # Scripts for alpha/beta diversity, rarefaction, NMDS
+├── 04_taxonomic_assignment/      # BOLDigger or custom scripts for OTU annotation
+├── utils/                        # Utility functions and helper scripts
+├── data/                         # Input files (or symlinks) if appropriate
+└── figures/                      # Output figures and plots
+```
 
 
 ## 🧪 Requirements
